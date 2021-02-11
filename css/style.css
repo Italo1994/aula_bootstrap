@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #688A08;
+}
+
+.who {
+    background-color: lightgray;
+    color: black;
+}
+
+.padding {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.servicos {
+    background-color: lightgray;
+    color: black;
+}
+
+.parceiros {
+    background-color:grey;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
